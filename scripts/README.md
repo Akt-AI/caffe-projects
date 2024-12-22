@@ -1,7 +1,4 @@
-```markdown
-# ReadMe
-
-## Build Caffe for CPU on Ubuntu 18.04
+# Build Caffe for CPU on Ubuntu 18.04
 
 Follow these steps to build Caffe on Ubuntu 18.04:
 
@@ -54,8 +51,3 @@ python
 ```
 
 You should see a list of available Caffe modules.
-
----
-
-Enjoy using Caffe on Ubuntu 18.04!
-```
